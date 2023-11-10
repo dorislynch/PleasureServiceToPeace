@@ -1,0 +1,6 @@
+framework module Pods_RNPleasureServiceToPeace {
+  umbrella header "Pods-RNPleasureServiceToPeace-umbrella.h"
+
+  export *
+  module * { export * }
+}

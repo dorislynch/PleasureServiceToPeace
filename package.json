@@ -1,0 +1,29 @@
+
+{
+  "name": "react-native-pleasure-service-to-peace",
+  "version": "1.0.0",
+  "description": "A ReactNative PleasureServiceToPeace Component for android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "server"
+  ],
+  "author": {
+    "name": "dorislynch",
+    "email": "dorislynch1988@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dorislynch/PleasureServiceToPeace.git"
+  }
+}
